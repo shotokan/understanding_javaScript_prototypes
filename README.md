@@ -1,3 +1,3 @@
 # understanding_javascript_prototypes
 
-Workshopperslanetproto: Planet Proto
+Workshoppers: Planet Proto
